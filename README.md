@@ -1,3 +1,3 @@
 # Zadanie
 
-To jest zadanie 5.
+To jest zadanie 3.
